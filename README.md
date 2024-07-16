@@ -19,3 +19,9 @@ Kompetisi ini dapat diakses di Kaggle melalui link berikut: [Dice Data Royale 20
 ## Tahap Final
 Tim dengan peringkat 5 teratas dari tahap penyisihan maju ke tahap final. Peserta mempresentasikan pendekatan, temuan utama, dan solusi kepada juri untuk menentukan Juara 1, 2, dan 3.
 
+### **Hasil Kompetisi**
+- **Penyisihan**:
+  - Juara 4 (Leaderboard)
+  - Juara 5 (Hasil Juri)
+- **Final**: Juara 3
+
